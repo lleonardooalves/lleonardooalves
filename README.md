@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Leonardo Alves
 
-<!--
-**lleonardooalves/lleonardooalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Mobile & Frontend Developer focused on building real-world applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Tech Stack
+
+- React Native
+- React
+- TypeScript
+- Zustand
+- Expo
+
+---
+
+## 📱 Featured Project
+
+### ⚽ Squad Builder
+
+A mobile app where users can build and manage their football squad with player selection, favorites and real-time squad summary.
+
+👉 [View Project](https://github.com/lleonardooalves/squad-builder)
+
+---
+
+## 🧠 What I'm currently doing
+
+- Improving my Squad Builder app
+- Focusing on mobile development with React Native
+- Learning more about scalable architecture and UI/UX
+
+---
+
+## 📈 Goals
+
+- Become a strong Mobile Developer
+- Build production-ready applications
+- Improve UI/UX and performance
+
+---
+
+## 📫 Contact
+
+- LinkedIn: www.linkedin.com/in/lleonardoalves
+
